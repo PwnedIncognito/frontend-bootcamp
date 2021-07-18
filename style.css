@@ -15,3 +15,15 @@ body::before {
     width: 50%;
   }
 }
+
+#faq-title {
+  padding-top: 80px;
+}
+
+#instructors {
+  scroll-margin-top: 60px;
+}
+
+#learn {
+  scroll-margin-top: 60px;
+}
